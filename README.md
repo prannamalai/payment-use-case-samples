@@ -19,6 +19,6 @@ Sample Page with Buttons - https://javascrionbutton-musekar.c9users.io/index.htm
 ### Postman Collections
 
 1. Simple Express Checkout
-2. Pay as you Use - Reference Transaction with Express Checkout 
-3. Send Invoices with Invoice API
-4. Marketplaces/ B2B / Rebates / Refunds with Payouts API
+2. Pay as you Use - Reference Transaction with Express Checkout - https://www.getpostman.com/collections/1839f829c28bf046416f
+3. Send Invoices with Invoice API - https://www.getpostman.com/collections/4f27b5797ef26902ae33
+4. Marketplaces/ B2B / Rebates / Refunds with Payouts API - https://www.getpostman.com/collections/c071bfa36d70c5f5e9d2
